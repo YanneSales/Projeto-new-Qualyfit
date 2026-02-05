@@ -15,6 +15,6 @@ Criação da versão web de um projeto pessoal.
 - JavaScript
 
 ▶️ Como rodar o projeto
-Baixar o repositório 
-Abrir o repositório
-Possuir a extensão go live do vs code
+- Baixar o repositório 
+- Abrir o repositório
+- Possuir a extensão go live do vs code
