@@ -4,8 +4,10 @@ Qualyfit
 Criação da versão web de um projeto pessoal.
 
 🚀 Funcionalidades
-- Funcionalidade 1
-- Funcionalidade 2
+- Acessar cardápios de restaurantes
+- Fazer pedidos de comida com direito a personalização
+- Chat, para conversar com restaurantes e nutricionistas
+  (Implementações)
 
 🛠 Tecnologias Utilizadas
 - HTML
@@ -13,7 +15,6 @@ Criação da versão web de um projeto pessoal.
 - JavaScript
 
 ▶️ Como rodar o projeto
-
-
-🔗 Link do repositório
-https://github.com/YanneSales/Projeto-new-Qualyfit
+Baixar o repositório 
+Abrir o repositório
+Possuir a extensão go live do vs code
